@@ -1,0 +1,15 @@
+Objective:
+ 1) Using and creating user-defined libraries.
+ 2) Declaring and implementing functions in a namespace.
+ 3) Using fixed length arrays.
+
+The Utopian deep see cleaning company needs your help in training employees.  The training simulator needs a program that teaches employees how to pilot a deep-sea submersible to collect waste at different sea levels.  The training simulator should comply with the following requirements:
+ 1) Simulate 20 possible sea levels, from very shallow to extremely deep.
+ 2) 5 Pieces of litter gets positioned randomly in the 20 levels. (The simulator may put more than one piece of litter in the same level)
+ 3) The submersible is placed randomly in one of the 20 levels.  If the submersible starts in a place where a piece of litter has been placed, then the submersible automatically collects the litter.
+ 4) A pilot should have the possibility of moving the submersible up and down the levels.
+ 5) When the submersible moves over the litter, it automatically collects the litter.
+ 6) The simulator should have a screen that clearly shows the sumbersible, the 20 levels and the current location of the litter.
+ 7) The simulation ends when all pieces of litter has been collected.
+
+The solution must make use of functions declared and implemented in a user-defined library.  All functions must be created in the LitterSpace namespace.

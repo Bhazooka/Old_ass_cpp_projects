@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1651510659 source:c:\users\barbu\desktop\computer science 1a work\tut week 10 (boulders, enemey follows you and portal)\libchase.cpp
+	"libChase.h"
+
+1651500624 c:\users\barbu\desktop\computer science 1a work\tut week 10 (boulders, enemey follows you and portal)\libchase.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<sstream>
+	<cassert>
+	<cctype>
+	<cmath>
+
+1651500624 source:c:\users\barbu\desktop\computer science 1a work\tut week 10 (boulders, enemey follows you and portal)\main.cpp
+	"libChase.h"
+	<iostream>
+

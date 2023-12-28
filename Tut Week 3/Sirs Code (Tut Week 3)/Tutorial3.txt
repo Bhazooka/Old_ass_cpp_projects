@@ -1,0 +1,22 @@
+Objectives:
+
+If - Statement
+If-Else
+Switch-Case
+Selection Operator
+
+After recent heavy rains, the water level in three of Utopia's major dams are recovering from a major drought.  Write a system that will allow the department of water affairs employee to capture the current water levels.  Since all the dams are of unequal size, each dam contributes a specific weight towards the overal state of water supply in Utopia.  This means that the operator must also assign a weight towards each of the dam levels. The sum of the weights must equal one.  If the weight does not equal one, the program may exit with an error.
+
+Calculate the weighted average of the three dams.
+Assign a status level to the overal water supply status given the following ranges:
+[0 - 60):  LOW
+[60 - 80): MEDIUM
+[80 - 100]: HIGH
+
+Using the status level as an indicator, output the following information to the operator:
+LOW: "The water supply is currently low"
+MEDIUM: "The water supply is currently medium"
+HIGH: "The water supply is currently high"
+
+As an afterthought, if the water level is LOW then output a water saving tip: "Rather shower", if not output: "Have long baths"
+

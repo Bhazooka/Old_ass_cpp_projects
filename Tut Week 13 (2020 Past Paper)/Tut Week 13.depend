@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1652812332 source:c:\users\barbu\desktop\csc01a1\tut week 13 (2020 past paper)\main.cpp
+	<iostream>
+	"libPark.h"
+
+1652862297 c:\users\barbu\desktop\csc01a1\tut week 13 (2020 past paper)\libpark.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<cctype>
+	<cstring>
+	<iomanip>
+	<cassert>
+
+1652862271 source:c:\users\barbu\desktop\csc01a1\tut week 13 (2020 past paper)\libpark.cpp
+	"libPark.h"
+

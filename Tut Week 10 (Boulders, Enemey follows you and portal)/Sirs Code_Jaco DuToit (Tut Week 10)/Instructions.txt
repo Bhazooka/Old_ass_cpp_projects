@@ -1,0 +1,20 @@
+This week we have a variant of the chaser game that we created before.  We will be making use of structs and enums.  To following changes now exist.
+
+Initialisation.
+The size of the game and the detection range of the enemy is specified using a command line argument.
+Every empty space has a 10% chance containing a rock boulder.
+The escape portal appears in a random location in the top right quadrant of the game world.
+The player starts in random location in the the bottom left quadrant of the game world.
+
+Movement.
+The player can move up, down, left and right.
+The player can not move over a boulder.
+
+Update.
+The enemy will move in a random direction as long as the player is outside the enemy's detection range.
+The enemy will try and move towards the player when the player is within the enemy's detection range.
+The enemy may only move into empty areas or the area occupied by the player.
+
+End game.
+The game ends in success when the player reached the portal.
+The game ends in failure when the player is caught by the enemy.

@@ -1,0 +1,5 @@
+Write the classic snake game.  In the game the snake starts with only a head.  It can move up, down, left and right.  One piece of fruit is placed randomly in the world.  When the snake eats the fruit, the body of the snake grows.
+The game ends when the snake eats its own body.
+
+Make use of enums and structs in the game.
+Represent an object in the game that takes up more than one cell.

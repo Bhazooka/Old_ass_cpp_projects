@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1650191380 source:c:\users\barbu\desktop\computer science 1a work\tut week 8\main.cpp
+	<iostream>
+	"libCatch.h"
+
+1650193168 c:\users\barbu\desktop\computer science 1a work\tut week 8\libcatch.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<cctype>
+	<cmath>
+
+1650193180 source:c:\users\barbu\desktop\computer science 1a work\tut week 8\libcatch.cpp
+	"libCatch.h"
+
+1650193180 source:c:\users\barbu\desktop\computer science 1a work\tut week 8 (avoid getting caught by ai player)\libcatch.cpp
+	"libCatch.h"
+
+1650193168 c:\users\barbu\desktop\computer science 1a work\tut week 8 (avoid getting caught by ai player)\libcatch.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<cctype>
+	<cmath>
+
+1650191380 source:c:\users\barbu\desktop\computer science 1a work\tut week 8 (avoid getting caught by ai player)\main.cpp
+	<iostream>
+	"libCatch.h"
+

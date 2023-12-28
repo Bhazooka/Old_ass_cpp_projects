@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1647966542 source:c:\users\barbu\desktop\computer science 1a work\tut week 6\main.cpp
+	"libLitter.h"
+	<iostream>
+
+1647967903 c:\users\barbu\desktop\computer science 1a work\tut week 6\liblitter.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1647967988 source:c:\users\barbu\desktop\computer science 1a work\tut week 6\liblitter.cpp
+	"libLitter.h"
+
+1647967988 source:c:\users\barbu\desktop\computer science 1a work\tut week 6 (first game, water litter and submersive)\liblitter.cpp
+	"libLitter.h"
+
+1647967903 c:\users\barbu\desktop\computer science 1a work\tut week 6 (first game, water litter and submersive)\liblitter.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1647967992 source:c:\users\barbu\desktop\computer science 1a work\tut week 6 (first game, water litter and submersive)\main.cpp
+	"libLitter.h"
+	<iostream>
+

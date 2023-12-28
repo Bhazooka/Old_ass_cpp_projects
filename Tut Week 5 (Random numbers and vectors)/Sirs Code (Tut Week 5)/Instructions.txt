@@ -1,0 +1,19 @@
+Objectives:
+Function Prototypes
+Function Statements
+random numbers
+vector class
+
+Instructions
+Write an application with the following menu options.
+1.) Generate n-random numbers and store it in a vector type.
+2.) Output a vector of numbers.
+3.) Calculate the mode and largest number in the vector type.
+4.) Exit the application
+
+vector functions:
+push_back
+clear
+Accessing individual items in the vector
+
+

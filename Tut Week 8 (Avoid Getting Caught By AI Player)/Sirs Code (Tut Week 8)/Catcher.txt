@@ -1,0 +1,17 @@
+Create a game that creates a dynamically sized world, given the number
+of rows and collumns from a command-line parameter.
+
+The aim of the game is for the player to move freely in the world
+without getting caught by the computer.
+
+The player can only move up,down,left and right.
+The player cannot move across boundaries.
+
+The computer can move to any of the ajacent cells, including diagonal movements, but cannot cross boundaries.
+
+As soon as the computer gets to within a predefined range,
+the computer senses the player and starts to chase the player.
+
+Scattered throughout the game are 10 magical items.  When you collect all 10 items, the game ends and you are a winner.
+
+The game ends when the computer catches the player.

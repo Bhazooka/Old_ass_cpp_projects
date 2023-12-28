@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1652862716 source:c:\users\barbu\desktop\csc01a1\tut week 13 (2020 past paper)\jaco's code(tut week 13_with cbp)\main.cpp
+	"libInfest.h"
+	<iostream>
+
+1652862716 c:\users\barbu\desktop\csc01a1\tut week 13 (2020 past paper)\jaco's code(tut week 13_with cbp)\libinfest.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cassert>
+	<sstream>
+	<cctype>
+
+1652862858 source:c:\users\barbu\desktop\csc01a1\tut week 13 (2020 past paper)\jaco's code(tut week 13_with cbp)\libinfest.cpp
+	"libInfest.h"
+

@@ -1,0 +1,21 @@
+Tutorial - Week 2
+
+Objective:
+ 1) Declaring variables of different data types (focus on double and int).
+ 2) Calculating values using c++ expressions
+ 3) Calculating double values from int parameters\variables.
+ 4) Using comments in code
+ 5) Writing code that is neat
+ 6) Installing and working with CodeBlocks
+ 7) Preparing and submitting the prac submission
+
+Exercise:
+
+You have worked hard and bought yourself a car.  You have driven the following kilometres over the past week
+
+Sun	Mon	Tue 	Wed 	Thu	Fri	Sat
+14	45	8	2	15	26	9
+
+You car gets 8 litre per 100 km.
+Calculate the total litre of fuel used in the past week.
+Calculate the fuel cost over the past week.  We use R20.25 per litre.

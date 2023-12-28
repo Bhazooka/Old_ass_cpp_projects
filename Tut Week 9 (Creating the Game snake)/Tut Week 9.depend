@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1651499737 source:c:\users\barbu\desktop\computer science 1a work\tut week 9 (creating the game snake)\libsnake.cpp
+	"libSnake.h"
+
+1651499737 c:\users\barbu\desktop\computer science 1a work\tut week 9 (creating the game snake)\libsnake.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<cctype>
+
+1651499737 source:c:\users\barbu\desktop\computer science 1a work\tut week 9 (creating the game snake)\main.cpp
+	"libSnake.h"
+	<iostream>
+

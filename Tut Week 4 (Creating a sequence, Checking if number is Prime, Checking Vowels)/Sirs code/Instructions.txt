@@ -1,0 +1,18 @@
+Objectives
+1. do while
+2. while
+3. for
+4. for each
+
+5. cin.get()
+6. getline
+7. cin.ignore()
+
+Create a menu driven program that:
+
+A.)  Create a sequence of numbers, where the user specifies n and the program outputs all the values of f(n)= n*(n-1) with n>=1
+B.)  Given a number determine if the number is a prime number
+C.)  Read a text string from a user and print out non-vowel characters.
+D.)  Quit the program
+
+

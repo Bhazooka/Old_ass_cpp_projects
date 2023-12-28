@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1649016937 source:c:\users\barbu\desktop\computer science 1a work\tut week 7\main.cpp
+	"libArray.h"
+	<iostream>
+
+1649016937 c:\users\barbu\desktop\computer science 1a work\tut week 7\libarray.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<sstream>
+
+1649016987 source:c:\users\barbu\desktop\computer science 1a work\tut week 7\libarray.cpp
+	"libArray.h"
+

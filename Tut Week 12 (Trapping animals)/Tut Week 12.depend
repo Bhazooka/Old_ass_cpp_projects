@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1652438614 source:c:\users\barbu\desktop\computer science 1a work\tut week 12\libhunt.cpp
+	"libHunt.h"
+
+1652438614 c:\users\barbu\desktop\computer science 1a work\tut week 12\libhunt.h
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<ctime>
+	<sstream>
+	<cctype>
+
+1652438614 source:c:\users\barbu\desktop\computer science 1a work\tut week 12\main.cpp
+	<iostream>
+	"libHunt.h"
+
+1652438808 source:c:\users\barbu\desktop\csc01a1\tut week 12 (trapping animals)\libhunt.cpp
+	"libHunt.h"
+
+1652438614 c:\users\barbu\desktop\csc01a1\tut week 12 (trapping animals)\libhunt.h
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<ctime>
+	<sstream>
+	<cctype>
+
+1652438614 source:c:\users\barbu\desktop\csc01a1\tut week 12 (trapping animals)\main.cpp
+	<iostream>
+	"libHunt.h"
+

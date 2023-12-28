@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1652362643 source:c:\users\barbu\desktop\computer science 1a work\tut week 11\libweights.cpp
+	"libWeights.h"
+
+1652362581 c:\users\barbu\desktop\computer science 1a work\tut week 11\libweights.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<ctime>
+	<cctype>
+	<iomanip>
+	<cassert>
+
+1652362581 source:c:\users\barbu\desktop\computer science 1a work\tut week 11\main.cpp
+	"libWeights.h"
+	<iostream>
+
+1652362643 source:c:\users\barbu\desktop\computer science 1a work\tut week 11 (weights, dropping weights)\libweights.cpp
+	"libWeights.h"
+
+1652362581 c:\users\barbu\desktop\computer science 1a work\tut week 11 (weights, dropping weights)\libweights.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<ctime>
+	<cctype>
+	<iomanip>
+	<cassert>
+
+1652363975 source:c:\users\barbu\desktop\computer science 1a work\tut week 11 (weights, dropping weights)\main.cpp
+	"libWeights.h"
+	<iostream>
+
+1652362643 source:c:\users\barbu\desktop\csc01a1\tut week 11 (weights, dropping weights)\libweights.cpp
+	"libWeights.h"
+
+1652362581 c:\users\barbu\desktop\csc01a1\tut week 11 (weights, dropping weights)\libweights.h
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<ctime>
+	<cctype>
+	<iomanip>
+	<cassert>
+
+1652363975 source:c:\users\barbu\desktop\csc01a1\tut week 11 (weights, dropping weights)\main.cpp
+	"libWeights.h"
+	<iostream>
+
